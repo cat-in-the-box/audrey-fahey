@@ -1,0 +1,8 @@
+print("Kira:" "\n\tBlack Laborador, 6 years old")
+print("\tabsolute", "sweet" + "heart")
+print("\t(name means black in Gaelic", "\n\tand is the onomatopaeia for" "\n\tsparkle in Japanese)")
+print("\bLucky:" "\n\tBlack Lab/German Shepard mix", "\n\tmy family's first dog")
+print("\treason for his name:")
+print("\t\t-born on 9/11/01")
+print("\t\t-brought to the shelter on my Mom's birthday")
+print("\t\t-ran into him at the pet shop with \"Adopt me\" vest \n\t\t\twhen my family and I happened to be going \n\t\t\tthere for fiddler crab supplies")
